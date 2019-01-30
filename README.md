@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>creating web sites</title>
-	<meta charset = "utf-8">
+<title> creating web sites </title>
+<meta charset = "utf-8">
 </head>
 <body>
 	<h1>2019 kimchi Festival</h1>
