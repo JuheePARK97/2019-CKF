@@ -3,15 +3,29 @@
 <head>
 	<title> 2019 CKF </title>
 	<meta charset = "utf-8">
+	<style>
+		body{
+		margin:0;
+		}
+		#active{color:red;}
+		.saw{color:gray;}
+		a{color:black;
+		text-decoration: none;}
+		h1{font-size:45px;
+		text-align:center;
+		border-bottom:1px solid gray;
+		margine:0;
+		padding:20px;}
 </head>
+	
 <body>
 	<h1>2019 kimchi Festival</h1>
 	<o1> 
-		<li> first page : date of festival </li>
-		<li> second page : history of two cultures, activities information so on</li>
-		<li> photo, display construct/composition </li>
+		<li class="saw"> first page : date of festival </li>
+		<li clas="saw" id="active"> second page : history of two cultures, activities information so on</li>
+		<li class="saw" id="active"> photo, display construct/composition </li>
 	</o1>
-	<h2> What is Kimchi? </h2>
+	<h2 class="saw"> What is Kimchi? </h2>
 	<p> 
 		Have you ever heard Kimchi? If you don't don't worry 2019 Kimchi Festival is easy and delightful food festival that ingurge people all together. 
 		Kimchi is best well known health and organic food. 
