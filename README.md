@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>creating web sites </title>
+	<title>creating web sites</title>
 	<meta charset = "utf-8">
 </head>
 <body>
