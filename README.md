@@ -1,10 +1,8 @@
-# web-site-hosting
-2019/05 Festivals
 <!DOCTYPE html>
 <html>
 <head>
-<title> creating web sites </title>
-<meta charset = "utf-8">
+	<title> 2019 CKF </title>
+	<meta charset = "utf-8">
 </head>
 <body>
 	<h1>2019 kimchi Festival</h1>
