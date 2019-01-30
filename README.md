@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title> 2019 CKF </title>
-	<meta charset = "utf-8">
-	<style>
-		body{
-		margin:0;
-		}
-		#active{color:red;}
-		.saw{color:gray;}
-		a{color:black;
-		text-decoration: none;}
-		h1{font-size:45px;
-		text-align:center;
-		border-bottom:1px solid gray;
-		margine:0;
-		padding:20px;}
-</head>
+
 	
 <body>
 	<h1>2019 kimchi Festival</h1>
