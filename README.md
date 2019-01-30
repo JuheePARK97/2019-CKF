@@ -1,6 +1,6 @@
 # web-site-hosting
 2019/05 Festivals
-<! doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>creating web sites </title>
